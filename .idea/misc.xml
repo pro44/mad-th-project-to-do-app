@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/asim/AndroidStudioProjects/ToDo2/app/src/main/res/drawable/button_background.xml" value="0.2203125" />
+        <entry key="..\:/Users/asim/AndroidStudioProjects/ToDo2/app/src/main/res/drawable/edit_text_background.xml" value="0.15092592592592594" />
+        <entry key="..\:/Users/asim/AndroidStudioProjects/ToDo2/app/src/main/res/drawable/ic_add.xml" value="0.15092592592592594" />
+        <entry key="..\:/Users/asim/AndroidStudioProjects/ToDo2/app/src/main/res/drawable/ic_calendar.xml" value="0.21574074074074073" />
+        <entry key="..\:/Users/asim/AndroidStudioProjects/ToDo2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.21574074074074073" />
+        <entry key="..\:/Users/asim/AndroidStudioProjects/ToDo2/app/src/main/res/drawable/ic_menu.xml" value="0.15092592592592594" />
+        <entry key="..\:/Users/asim/AndroidStudioProjects/ToDo2/app/src/main/res/layout/activity_get_task.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/asim/AndroidStudioProjects/ToDo2/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/asim/AndroidStudioProjects/ToDo2/app/src/main/res/layout/activity_splash_screen.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/asim/AndroidStudioProjects/ToDo2/app/src/main/res/layout/row.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
